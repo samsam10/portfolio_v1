@@ -31,9 +31,10 @@ const Header = () => {
           ]}
           />
           </div>
-          <CTA/>
-          <HeaderSocials/>
 
+          <CTA/>
+
+          <HeaderSocials/>
            <div className="me">
            <img src={ME} alt="me" />
            </div>

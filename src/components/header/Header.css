@@ -116,7 +116,7 @@ header{
 /*************MEDIA QUERIES FOR RESPONSIVENESS(SMALL DEVICES)******************/
 @media screen and (max-width:600px) {
     header{
-        height: 82vh;
+        height: 100vh;
     }
 
     .header__socials, .scroll__down{
@@ -124,4 +124,6 @@ header{
     }
 
 }
+
+
         
